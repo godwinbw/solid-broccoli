@@ -72,16 +72,12 @@ Steps of this challenge are:
 
 ### **Challenge 21 - screenshots**
 
-<!--
 <img src="./screenshot-1.png" style="width: 50%; height=auto;">
 
 <img src="./screenshot-2.png" style="width: 50%; height=auto;">
 
 <img src="./screenshot-3.png" style="width: 50%; height=auto;">
--->
 
 ### **Challenge 21 - link to deployed app**
 
-<!--
 <https://warm-basin-10090.herokuapp.com/>
--->
